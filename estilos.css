@@ -1,12 +1,17 @@
 /*general*/
 body {
     background-color: #88e688;
+    
 }
 main{
     text-align: center;
 }
 p{
     font-family: 'Libre Baskerville', serif;
+}
+
+ul{
+    list-style:none;
 }
 
 /*header*/
